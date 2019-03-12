@@ -1,6 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
 .time {
-    padding-top: 25vw;
-    padding-left: 14vw;
-    padding-right: 14vw;
+    padding-top: 35vw;
+    padding-left: 20%;
     font-size: 4vw;
 }
